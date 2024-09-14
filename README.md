@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... cybersecurity and programming
 - 🌱 I’m currently learning ...information,communication and technology
 - 💞️ I’m looking to collaborate on ...cybersecurity
-- 📫 How to reach me ...facebook @waziry suleimany
+- 📫 How to reach me ...facebook @waswa degeni
 - 😄 Pronouns: ...Words Are Strong.
 - ⚡ Fun fact: ...If You Fail to Arrange,You Arrange to Fail.
 
