@@ -1,12 +1,44 @@
-- 👋 Hi, I’m @Waswa24Degeni
-- 👀 I’m interested in ... cybersecurity and programming
-- 🌱 I’m currently learning ...information,communication and technology
-- 💞️ I’m looking to collaborate on ...cybersecurity
-- 📫 How to reach me ...facebook @waswa degeni
-- 😄 Pronouns: ...Words Are Strong.
-- ⚡ Fun fact: ...If You Fail to Arrange,You Arrange to Fail.
+-👋 Hi, I’m Waswa Degeni (@Waswa24Degeni)
+I am an aspiring Cybersecurity Professional and Software Developer with a strong interest in building secure, efficient, and scalable systems. I enjoy learning how software development and cybersecurity work together to solve real-world problems.
 
-<!---
-Waswa24Degeni/Waswa24Degeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Interests
+Cybersecurity & Information Security
+Software & Web Development
+Secure Systems & Networking
+
+🌱 Currently Learning
+Information, Communication & Technology (ICT)
+Cybersecurity fundamentals and secure application development
+
+🛠️ Skills & Technologies
+💻 Programming Languages
+Python
+Java
+PHP
+JavaScript
+
+🌐 Web Technologies
+HTML5
+CSS3
+
+⚙️ Frameworks & Tools
+Laravel (PHP)
+Django (Python)
+Tailwind CSS
+
+🔐 Cybersecurity & IT Skills
+Linux (command line & system administration)
+Networking fundamentals
+Basic security concepts (threats, vulnerabilities, system hardening)
+
+🤝 Looking to Collaborate On
+Cybersecurity-related projects
+Software and web development projects
+Open-source contributions
+
+📫 How to Reach Me
+Facebook: @Waswa Degeni
+instagram:@waswa_degeni
+
+⚡ Fun Fact
+If you fail to arrange, you arrange to fail.
