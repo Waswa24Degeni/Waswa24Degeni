@@ -1,69 +1,106 @@
--👋 Hi, I’m Waswa Degeni (@Waswa24Degeni)
+# Hi there, I'm Waswa24Degeni 👋
 
-I am an aspiring Cybersecurity Professional and Software Developer with a strong interest in building secure, efficient, and scalable systems. I enjoy learning how software development and cybersecurity work together to solve real-world problems.
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Full%20Stack%20Dev-blue?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Location-Remote-purple?style=flat-square" alt="Location">
+</div>
 
-🎯 Interests
+---
 
-Cybersecurity & Information Security
+## 🚀 About Me
 
-Software & Web Development
+I'm an aspiring Cybersecurity Professional and Software Developer with a strong interest in building secure, efficient, and scalable systems. I enjoy learning how software development and cybersecurity intersect to create robust solutions that protect data and user privacy.
 
-Secure Systems & Networking
+### 💡 What I'm Currently Doing
+- 🔭 Building impactful projects in cybersecurity and software development
+- 🌱 Continuously learning ICT, security fundamentals, and secure application development
+- 👯 Open to collaborating on cybersecurity and web development projects
+- 💬 Always happy to discuss tech, security, and innovation
 
-🌱 Currently Learning
+---
 
-Information, Communication & Technology (ICT)
+## 🛠️ Tech Stack
 
-Cybersecurity fundamentals and secure application development
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-🛠️ Skills & Technologies
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-💻 Programming Languages
+### Backend & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-Python
+### Cybersecurity & IT
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-4A90E2?style=for-the-badge&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF6B6B?style=for-the-badge&logoColor=white)
 
-Java
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-PHP
+---
 
-JavaScript
+## 📊 GitHub Statistics
 
-🌐 Web Technologies
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Waswa24Degeni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waswa24Degeni&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages">
+</div>
 
-HTML5
+---
 
-CSS3
+## 🎯 Featured Projects
 
-⚙️ Frameworks & Tools
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [Cybersecurity Project](https://github.com/Waswa24Degeni) | Secure systems and networking implementations | Python, Linux, Networking |
+| [Web Development](https://github.com/Waswa24Degeni) | Full-stack web applications | Django, Laravel, Tailwind CSS |
+| [More Projects](https://github.com/Waswa24Degeni?tab=repositories) | Explore all repositories | - |
 
-Laravel (PHP)
+---
 
-Django (Python)
+## 🏆 Achievements & Highlights
 
-Tailwind CSS
+✨ **Cybersecurity Fundamentals** - Strong foundation in security concepts and system hardening  
+✨ **Full Stack Development** - Experience with both frontend and backend technologies  
+✨ **Open Source Contributions** - Active in community and collaborative projects  
 
-🔐 Cybersecurity & IT Skills
+---
 
-Linux (command line & system administration)
+## 🎯 Interests & Collaboration
 
-Networking fundamentals
+- 🔐 Cybersecurity-related projects
+- 💻 Software and web development projects
+- 🌍 Open-source contributions
+- 🔧 Secure systems and networking
 
-Basic security concepts (threats, vulnerabilities, system hardening)
+---
 
-🤝 Looking to Collaborate On
+## 📬 Get In Touch
 
-Cybersecurity-related projects
+<div align="center">
 
-Software and web development projects
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Waswa.Degeni)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/waswa_degeni)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Waswa24Degeni)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waswa@example.com)
 
-Open-source contributions
+</div>
 
-📫 How to Reach Me
+---
 
-Facebook: @Waswa Degeni
-
-instagram:@waswa_degeni
-
-⚡ Fun Fact
-
-If you fail to arrange, you arrange to fail.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Waswa24Degeni&color=blue&style=flat-square" alt="Profile Views">
+  
+  **⚡ If you fail to arrange, you arrange to fail.**  
+  
+  *Let's build secure and innovative solutions together! 🚀*
+</div>
